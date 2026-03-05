@@ -8,3 +8,4 @@ Swift
 Android
 Login
 Remote
+Local
